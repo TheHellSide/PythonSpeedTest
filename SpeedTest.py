@@ -8,6 +8,7 @@ def BytesToMega(sizeBytes):
     return f"{sizeMegaBytes} Mpbs"
 
 def main():
+    # Writing: https://patorjk.com/software/taag
     print(colour.Fore.RED)
     print(colour.Fore.RED + "\t   _____                     __" + colour.Fore.WHITE + "______          __ " + colour.Fore.RED)
     print("\t  / ___/____  ___  ___  ____/ " + colour.Fore.WHITE + "/_  __/__  _____/ /_" + colour.Fore.RED)
